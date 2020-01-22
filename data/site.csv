@@ -1,0 +1,8 @@
+site,country,year,estimate_chronic,ci.low_chronic,ci.high_chronic
+Back,za,2016,30.5,27.7,33.6
+Neck/Shoulders,za,2016,15.5,13.6,17.7
+Head/face/teeth,za,2016,10.7,9,12.8
+Stomach/abdomen,za,2016,19.2,17,21.7
+Limbs,za,2016,43.6,40.4,46.9
+Chest,za,2016,12.7,11.1,14.6
+Other,za,2016,2.6,1.8,3.8

@@ -1,0 +1,9 @@
+Pain,health_status,count,ci.low,ci.high
+yes,poor,24.26,21.82,26.87
+yes,average,37.15,34.42,39.96
+yes,good,29.05,26.15,32.13
+yes,excellent,9.546,7.685,11.8
+no,poor,7.093,6.394,7.861
+no,average,29.35,27.77,30.98
+no,good,47.01,45.34,48.68
+no,excellent,16.56,15.13,18.09

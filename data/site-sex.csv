@@ -1,0 +1,15 @@
+site,sex,country,year,estimate_chronic,ci.low_chronic,ci.high_chronic
+Back,M,za,2016,30,25.3,35.2
+Neck/Shoulders,M,za,2016,10.7,8,14.3
+Head/face/teeth,M,za,2016,7.8,5.5,11
+Stomach/abdomen,M,za,2016,12.4,9.7,15.7
+Limbs,M,za,2016,40.2,35.2,45.4
+Chest,M,za,2016,15.3,12.1,19.2
+Other,M,za,2016,2.8,1.5,5.1
+Back,F,za,2016,30.8,27.2,34.7
+Neck/Shoulders,F,za,2016,18.1,15.7,20.9
+Head/face/teeth,F,za,2016,12.3,10.1,14.9
+Stomach/abdomen,F,za,2016,22.9,19.8,26.4
+Limbs,F,za,2016,45.5,41.6,49.4
+Chest,F,za,2016,11.3,9.5,13.6
+Other,F,za,2016,2.6,1.8,3.8
